@@ -1,0 +1,27 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif; 
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
